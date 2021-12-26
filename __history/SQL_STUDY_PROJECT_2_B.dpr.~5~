@@ -1,0 +1,20 @@
+program SQL_STUDY_PROJECT_2_B;
+
+uses
+  Vcl.Forms,
+  uFrmMain in 'uFrmMain.pas' {Form1},
+  uDMConnection in 'br.com.project.dao.conn\uDMConnection.pas' {TDMConnection: TDataModule},
+  uClienteDao in 'br.com.project.dao\uClienteDao.pas' {ClienteDao: TDataModule},
+  uClienteController in 'br.com.project.controller\uClienteController.pas' {ClienteController: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TTDMConnection, TDMConnection);
+  Application.CreateForm(TClienteDao, ClienteDao);
+  Application.CreateForm(TClienteController, ClienteController);
+  Application.Run;
+end.

@@ -1,0 +1,30 @@
+unit uAppSystemCenter;
+
+interface
+
+uses
+  Forms,
+  System.SysUtils,
+  System.Classes;
+
+type
+  TappSystemCenter = class(TDataModule)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+
+    procedure ShowForm_Modal(T: TFormClass; F: TForm);
+    procedure ShowForm_View(T: TFormClass; F: TForm);
+
+  end;
+
+var
+  appSystemCenter: TappSystemCenter;
+
+implementation
+
+{%CLASSGROUP 'Vcl.Controls.TControl'}
+{$R *.dfm}
+
+end.

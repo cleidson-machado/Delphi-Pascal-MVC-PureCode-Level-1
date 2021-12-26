@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/21 11:47:27.000.023,=C:\Users\PMachadC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/23 09:59:03.000.336,=C:\Users\PMachadC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/23 10:00:13.000.469,C:\Users\PMachadC\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B\uFrmMain.dfm</Transaction>
+    <Transaction>2021/11/23 10:00:13.000.469,C:\Users\PMachadC\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B\uFrmMain.pas</Transaction>
+    <Transaction>2021/11/23 10:00:28.000.018,C:\Users\PMachadC\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B\SQL_STUDY_PROJECT_2_B.dproj</Transaction>
+    <Transaction>2021/11/23 10:01:59.000.586,=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B\br.com.project.dao.conn\uDMConnection.pas</Transaction>
+    <Transaction>2021/11/23 10:05:12.000.548,=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B\br.com.project.dao\uClienteDao.pas</Transaction>
+    <Transaction>2021/11/23 10:28:24.000.901,=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B\br.com.project.controller\uClienteController.pas</Transaction>
+    <Transaction>2021/11/27 11:34:55.000.235,=C:\VM_Dev\RESTORED_PROJECTS\STUDIES\REBOOT_2021\MVC_STUDIES\MVC_Basic_Code_OK\SQL_PROJECT_002_B\br.com.project.model\uClienteModel.pas</Transaction>
+    <Transaction>2021/11/29 06:10:28.000.515,=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\MVC_Basic_Code_OK_project_B_EVOLUTIONS\SQL_PROJECT_002_B\Unit1.pas</Transaction>
+    <Transaction>2021/11/29 06:12:28.000.211,C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\MVC_Basic_Code_OK_project_B_EVOLUTIONS\SQL_PROJECT_002_B\Unit1.dfm=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\MVC_Basic_Code_OK_project_B_EVOLUTIONS\SQL_PROJECT_002_B\br.com.project.util\uAppSystemCenter.dfm</Transaction>
+    <Transaction>2021/11/29 06:12:28.000.211,C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\MVC_Basic_Code_OK_project_B_EVOLUTIONS\SQL_PROJECT_002_B\Unit1.pas=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\MVC_Basic_Code_OK_project_B_EVOLUTIONS\SQL_PROJECT_002_B\br.com.project.util\uAppSystemCenter.pas</Transaction>
+    <Transaction>2021/11/29 06:21:30.000.382,=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\MVC_Basic_Code_OK_project_B_EVOLUTIONS\SQL_PROJECT_002_B\Unit2.pas</Transaction>
+    <Transaction>2021/11/29 06:22:10.000.356,C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\MVC_Basic_Code_OK_project_B_EVOLUTIONS\SQL_PROJECT_002_B\Unit2.pas=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\MVC_Basic_Code_OK_project_B_EVOLUTIONS\SQL_PROJECT_002_B\uFrmIndex.pas</Transaction>
+    <Transaction>2021/11/29 06:22:10.000.356,C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\MVC_Basic_Code_OK_project_B_EVOLUTIONS\SQL_PROJECT_002_B\Unit2.dfm=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\MVC_Basic_Code_OK_project_B_EVOLUTIONS\SQL_PROJECT_002_B\uFrmIndex.dfm</Transaction>
+    <Transaction>2021/12/09 08:07:00.713,=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B_delete_ok_REVIEW_4_counter_limited_but_OK\Unit3.pas</Transaction>
+    <Transaction>2021/12/09 08:09:15.785,C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B_delete_ok_REVIEW_4_counter_limited_but_OK\uFrmBasicEnv.dfm=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B_delete_ok_REVIEW_4_counter_limited_but_OK\Unit3.dfm</Transaction>
+    <Transaction>2021/12/09 08:09:15.785,C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B_delete_ok_REVIEW_4_counter_limited_but_OK\uFrmBasicEnv.pas=C:\Z_CLEIDSON\DEVELOPMENT\EMBARCADERO\PROJECTS\STUDY\MVC_Tech_Try\SQL_PROJECT_002_B_delete_ok_REVIEW_4_counter_limited_but_OK\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>

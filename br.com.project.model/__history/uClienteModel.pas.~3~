@@ -1,0 +1,44 @@
+unit uClienteModel;
+
+interface
+
+uses
+  System.SysUtils;
+
+type
+  TClienteModel = class(TObject)
+
+  private
+    FcodigoPk: Integer;
+    Fnome: string;
+
+  public
+
+    constructor Create;
+    destructor Destroy; override;
+
+    property Codigo: Integer read FcodigoPk write FcodigoPk;
+    property Nome: string read Fnome write Fnome;
+
+  end;
+
+var
+  FCliente: TClienteModel;
+
+implementation
+
+{ TClienteModel }
+
+constructor TClienteModel.Create;
+begin
+  //EMPTY --> QUAL O MOTIVO DE FUNCIONAR APENAS COM CREATE VAZIO!!!??
+  //Self.Create;
+end;
+
+destructor TClienteModel.Destroy;
+begin
+  FreeAndNil(FCliente);
+  inherited;
+end;
+
+end.

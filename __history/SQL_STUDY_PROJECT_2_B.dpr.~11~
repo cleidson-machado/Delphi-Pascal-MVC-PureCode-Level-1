@@ -1,0 +1,21 @@
+program SQL_STUDY_PROJECT_2_B;
+
+uses
+  Vcl.Forms,
+  uFrmMain in 'uFrmMain.pas' {Form1},
+  uDMConnection in 'br.com.project.dao.conn\uDMConnection.pas' {DbConnection: TDataModule},
+  uClienteDao in 'br.com.project.dao\uClienteDao.pas' {ClienteDao: TDataModule},
+  uClienteController in 'br.com.project.controller\uClienteController.pas' {ClienteController: TDataModule},
+  uClienteModel in 'br.com.project.model\uClienteModel.pas',
+  uAppSystemCenter in 'br.com.project.util\uAppSystemCenter.pas' {appSystemCenter: TDataModule},
+  uFrmIndex in 'uFrmIndex.pas' {Form2};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TappSystemCenter, appSystemCenter);
+  Application.CreateForm(TForm2, Form2);
+  Application.Run;
+end.
